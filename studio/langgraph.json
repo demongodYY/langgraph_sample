@@ -1,0 +1,12 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "simple_graph": "./simple.py:graph",
+    "agent": "./agent.py:graph",
+    "human_in_loop": "./agent_human_in_loop.py:graph",
+    "log_agent": "./log_agent.py:graph"
+  },
+  "env": "./.env",
+  "python_version": "3.12",
+  "dependencies": ["."]
+}
