@@ -4,9 +4,10 @@
     "simple_graph": "./simple.py:graph",
     "agent": "./agent.py:graph",
     "human_in_loop": "./agent_human_in_loop.py:graph",
-    "log_agent": "./log_agent.py:graph"
+    "log_agent": "./log_agent.py:graph",
+    "honey_comb_mcp_agent": "./agent_honeycomb_mcp.py:make_graph"
   },
   "env": "./.env",
-  "python_version": "3.12",
+  "python_version": "3.11",
   "dependencies": ["."]
 }
