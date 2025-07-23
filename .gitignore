@@ -22,3 +22,4 @@ instance
 .mypy_cache
 .pytest_cache
 .env
+.langgraph_api/
