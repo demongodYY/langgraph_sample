@@ -1,0 +1,5 @@
+what's the database used in the backend?
+
+What's the database used in the backend? Give me estimated cost if I want to deploy it to Azure.
+
+The team wants to use AWS as the cloud provider to meet our AI strategy. Which resources can we use?
